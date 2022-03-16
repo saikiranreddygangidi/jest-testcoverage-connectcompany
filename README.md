@@ -1,0 +1,1 @@
+# jest-testcoverage-connectcompany
